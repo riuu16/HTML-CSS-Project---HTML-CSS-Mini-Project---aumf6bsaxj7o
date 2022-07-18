@@ -1,1 +1,1 @@
-# JsminiProject--of-Web-Based-Wheather-Check-Application
+# recipe webpage template
