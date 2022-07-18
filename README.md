@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+# JsminiProject--of-Web-Based-Wheather-Check-Application
